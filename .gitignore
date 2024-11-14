@@ -1,0 +1,40 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Arquivos de log
+*.log
+*.pot
+
+# Diretórios do Django
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+
+# Diretórios de configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configuração do Virtual Environment
+venv/
+.env/
+*.env
+
+# Arquivos de migrações do Django (opcional, se preferir versioná-los, remova esta linha)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Cache e histórico de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários de compilação
+*.egg
+*.egg-info/
+dist/
+build/

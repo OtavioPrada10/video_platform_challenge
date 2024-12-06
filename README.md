@@ -5,8 +5,9 @@ Este projeto tem o código fonte totalmente desenvolvido por mim, com base no de
 
 ## Semana 1 desafio Alura 
 
-**Trello do projeto:**
-https://trello.com/b/4KCKEP73/alura-challenge-backend-semana-1
+**Trello do projeto:**  
+Semana 1: https://trello.com/b/4KCKEP73/alura-challenge-backend-semana-1  
+Semana 2: https://trello.com/b/RfaIDZBX/alura-challenge-backend-semana-2
 
 ## Configuração do Ambiente Virtual (venv)
 
